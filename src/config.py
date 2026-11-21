@@ -24,7 +24,7 @@ PV_CAPACITY_KW = 20
 
 PV_MODULE_TYPE = "Monocrystalline Silicon"
 
-PV_SYSTEM_EFFICIENCY = 0.96  # Provisional modelling assumption
+INVERTER_EFFICIENCY = 0.96  # Provisional modelling assumption
 
 
 # 3. BATTERY ENERGY STORAGE PARAMETERS
