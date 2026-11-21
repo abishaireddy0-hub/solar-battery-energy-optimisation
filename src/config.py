@@ -1,4 +1,3 @@
-?variant="standard" id="62841"}
 # ============================================================
 # PROJECT: SOLAR-BATTERY ENERGY OPTIMISATION
 # Domain: Energy Economics and Optimisation
